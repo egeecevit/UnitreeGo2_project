@@ -1,0 +1,2 @@
+[simulation]
+model_path = "/home/ege/legged/metuatlas/quadcontrol/models/unitree_go2/scene.xml"
